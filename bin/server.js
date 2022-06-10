@@ -48,4 +48,4 @@ server.listen(port);
 server.on('error', onError);
 server.on('listening', onListening);
 
-console.log(`API rodando na porta: ${port}`);
+console.log(`API running at port: ${port}`);
